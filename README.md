@@ -1,4 +1,110 @@
-# tweely
-Tweely is a multi-function twitter bot written in python3. 
+# Tweely
+*Tweely is a multi-function twitter bot written in python3*. 
 ![tweely](https://user-images.githubusercontent.com/74001397/122753237-3ddec580-d292-11eb-80cb-f4cbae0bd1eb.jpg)
+
+
+
+
+
+
+
+# What You Will Need
+
+* **Consumer API Key** (aka API key)
+
+* **Secret API Key**
+
+* **Access Key**
+
+* **Secret Access Token**
+
+>**Note**:
+*You will have to apply for a twitter developer account to get the above credentials*.
+
+You can create one [here](https://developer.twitter.com)
+
+# Twitter Developer Account
+A Twitter developer account gives access to the Twitter API. This opens up application layer and transport layer endpoints to perform various tasks such as tweeting, favoriting, retweeting, liking, direct messaging, and even more complex tasks like finding what is trending.
+
+# Applying For A Developer Account
+
+* Using a browser, Sign-in  to twitter with your existing account(If you don't have a twitter account, then you should create one).
+
+* Now visit https://developer.twitter.com/ and apply for a developer account.
+
+>**Note**:
+*You will be asked to explain what your intentions are for wanting to use the api, you will have to share your real intentions and apply*.
+
+
+
+
+
+* Once you have successfully applied for a developer account, it might take a while for your account to be approved (mine got approved immediately) if yours takes longer, you will need to be a little bit patient🙂.
+
+* Once your developer account gets approved, you will need to configure your authentication details.
+
+
+
+* Now navigate to the '**Apps**' option from the top menu bar and then click '**Create An App**'. Provide the details of your app and then click '**Create**'. 
+
+* Once done, go to '**Permissions**' and see whether your new app has both reading as well as writing permissions. If it doesn't, you can edit it, and give permission for both reading and writing. as for full functionality Tweely will need all permissions.
+
+* Lastly, navigate to '**Key and Tokens**' and generate your credentials, you should copy the generated
+
+'**consumer key**'
+
+'**consumer secret**' 
+
+'**access token**'
+
+'**access token secret**'
+
+you will paste the keys in the **credentials.py** file (in their specified variables)
+
+# Installation
+
+**Clone the Tweely repo**:
+
+> git clone https://github.com/rlyonheart/tweely
+
+> cd tweely
+
+> pip3 install -r REQUIREMENTS
+
+# Usage
+**Run**:
+
+> python tweely
+
+Alternatively you can give Tweely execution rights with **chmod +x tweely**
+
+
+
+**Then run**:
+
+> ./tweely
+
+# Developer contact(s) 
+> [Twitter](https://twitter.com/rly0nheart/)
+
+> [Facebook](https://fb.me/rly0nheart/)
+
+> [Instagram](https://instagram.com/rlyonheart/)
+
+> [Telegram](https://t.me/rlyonheart/)
+
+
+# Disclaimer
+**Tweely should not be used for illegal activities.
+This bot was developed as a learning project. 
+Therefore, the author of Tweely [Richard Mwewa], shall not be responsible for any
+sort of damage that might be caused with Tweely**.
+
+
+
+
+
+
+
+
 
