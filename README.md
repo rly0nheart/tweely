@@ -21,7 +21,7 @@
 >**Note**:
 *You will have to apply for a twitter developer account to get the above credentials*.
 
-You can create one [here](https://developer.twitter.com)
+You can apply for one [here](https://developer.twitter.com)
 
 # Twitter Developer Account
 A Twitter developer account gives access to the Twitter API. This opens up application layer and transport layer endpoints to perform various tasks such as tweeting, favoriting, retweeting, liking, direct messaging, and even more complex tasks like finding what is trending.
