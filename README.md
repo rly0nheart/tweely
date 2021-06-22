@@ -75,6 +75,7 @@ you will paste the keys in the **credentials.py** file (in their specified varia
 **Run**:
 
 > python tweely
+![Screenshot_20210622-025819](https://user-images.githubusercontent.com/74001397/122846528-525ca580-d306-11eb-9cc0-50d52007a4e9.jpg)
 
 Alternatively you can give Tweely execution rights with **chmod +x tweely**
 
@@ -83,6 +84,7 @@ Alternatively you can give Tweely execution rights with **chmod +x tweely**
 **Then run**:
 
 > ./tweely
+![Screenshot_20210622-025856](https://user-images.githubusercontent.com/74001397/122846563-63a5b200-d306-11eb-8d1d-cc62eae09890.jpg)
 
 # Developer contact(s) 
 > [Twitter](https://twitter.com/rly0nheart/)
