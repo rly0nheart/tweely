@@ -14,8 +14,9 @@
 
 **TWEET OPTIONS**
 * Compose Tweet
-* Retweet
 * Compose Tweet With Attachment
+* Retweet
+* Unretweet
 * Delete Tweet
 * Like Tweet(s) 
 * Unlike Tweet(s)
