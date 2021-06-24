@@ -2,6 +2,44 @@
 *Tweely is a multi-function twitter bot written in python3*. 
 ![tweely](https://user-images.githubusercontent.com/74001397/122753237-3ddec580-d292-11eb-80cb-f4cbae0bd1eb.jpg)
 
+# Features
+**PROFILE**
+* View Your Info
+* View Your Timeline
+* Update Bio
+* Update Name
+* Update Location
+* Update Profile Photo
+* Update Cover Photo
+
+**TWEET OPTIONS**
+* Compose Tweet
+* Retweet
+* Compose Tweet With Attachment
+* Delete Tweet
+* Like Tweet(s) 
+* Unlike Tweet(s)
+* Like All (top recent tweets) 
+* Unlike All (top recent tweets) 
+
+**FOLLOWING**
+* Follow User(s)
+* Unfollow User(s)
+
+**MESSAGING**
+* Send Direct Message
+* Delete Message(s) 
+* Sent Message(s) 
+
+**BLOCKING**
+* Block User(s) 
+* Unblock User(s) 
+* Blocked User(s) 
+
+**OTHER TOOLS**
+* Search User(s) 
+* Fetch User Info
+
 
 
 
