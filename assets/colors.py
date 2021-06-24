@@ -1,4 +1,5 @@
-# Defining colors
+# colors will be used throughout the Tweely program
+
 white = "\033[97m"
 green = "\033[92m"
 red = "\033[91m"
