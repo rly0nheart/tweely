@@ -1,5 +1,7 @@
+# importing all colors from colors.py
 from assets.colors import *
 
+# banners will be used for each option in tweely
 def mainBanner():
 	print("""
 ░▀█▀░█░█░█▀▀░█▀▀░█░░░█░█
