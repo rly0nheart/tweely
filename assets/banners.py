@@ -57,7 +57,7 @@ def composeBanner():
 ░█░░░█░█░█░█░█▀▀░█░█░▀▀█░█▀▀
 ░▀▀▀░▀▀▀░▀░▀░▀░░░▀▀▀░▀▀▀░▀▀▀%s
 [%s Compose A Tweet %s] - Tweely
-%s""" % (white,red,white,end)
+%s""" % (white,red,white,end))
 
 def composeWithFileBanner():
    print("""
@@ -65,7 +65,7 @@ def composeWithFileBanner():
 ░█░░░█░█░█░█░█▀▀░█░█░▀▀█░█▀▀
 ░▀▀▀░▀▀▀░▀░▀░▀░░░▀▀▀░▀▀▀░▀▀▀%s
 [%s Compose A Tweet %s] - Tweely
-%s""" % (white,red,white,end)))
+%s""" % (white,red,white,end))
 
 def followBanner():
 	print("""
