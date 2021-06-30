@@ -3,7 +3,7 @@
 ![tweely](https://user-images.githubusercontent.com/74001397/122753237-3ddec580-d292-11eb-80cb-f4cbae0bd1eb.jpg)
 
 # Features
-**PROFILE**
+**PROFILE👤**
 * View Your Info
 * View Your Timeline
 * Update Bio
@@ -12,7 +12,7 @@
 * Update Profile Photo
 * Update Cover Photo
 
-**TWEET OPTIONS**
+**TWEET OPTIONS🐦**
 * Compose Tweet
 * Compose Tweet With Attachment
 * Retweet
@@ -23,28 +23,28 @@
 * Like All (top recent tweets) 
 * Unlike All (top recent tweets) 
 
-**FOLLOWING**
+**FOLLOWING👣**
 * Follow User(s)
 * Unfollow User(s)
 
-**MESSAGING**
+**MESSAGING✉️**
 * Send Direct Message
 * Delete Message(s) 
 * Sent Message(s) 
 
-**BLOCKING**
+**BLOCKING🚫**
 * Block User(s) 
 * Unblock User(s) 
 * Blocked User(s)
 
-**SEARCHING**
+**SEARCHING🔎**
 * Search Twitter
 * Search User(s)
 
-**TRENDING**
+**TRENDING🔥**
 * Trending Topics (by place)
 
-**OTHER TOOLS**
+**OTHER TOOLS🛠️**
 * Fetch User Info
 
 
