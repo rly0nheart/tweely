@@ -35,11 +35,18 @@
 **BLOCKING**
 * Block User(s) 
 * Unblock User(s) 
-* Blocked User(s) 
+* Blocked User(s)
+
+**SEARCHING**
+* Search Twitter
+* Search User(s)
+
+**TRENDING**
+* Trending Topics (by place)
 
 **OTHER TOOLS**
-* Search User(s) 
 * Fetch User Info
+
 
 
 
