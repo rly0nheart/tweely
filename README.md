@@ -134,6 +134,14 @@ Alternatively you can give Tweely execution rights with **chmod +x tweely**
 ![Screenshot_20210622-030635](https://user-images.githubusercontent.com/74001397/122847051-6b198b00-d307-11eb-9bda-9e4b299fad75.jpg)
 
 
+# Update
+> New release (v1.1) has got the following new features;
+
+**Change log:**
+* Added *'Search Twitter'* option
+* Added *'Trending'* option
+
+
 # Developer contact(s) 
 > [Twitter](https://twitter.com/rly0nheart/)
 
