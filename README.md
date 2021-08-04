@@ -138,11 +138,10 @@ Alternatively you can give Tweely execution rights with **chmod +x tweely**
 
 
 # Update
-> New release (v1.1) has got the following new features;
+> New release (v1.5) has got the following new features;
 
 **Change log:**
-* Added *'Search Twitter'* option
-* Added *'Trending'* option
+* Added *'Stream tweets'* option
 
 
 # Developer contact(s) 
