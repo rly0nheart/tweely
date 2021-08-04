@@ -44,7 +44,7 @@
 **TRENDING🔥**
 * Trending Topics (by place)
 
-*STREAMING👀 **
+**STREAMING👀**
 * Stream tweets
 
 **OTHER TOOLS🛠️**
