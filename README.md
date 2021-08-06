@@ -1,4 +1,4 @@
-# Tweely
+I# Tweely
 ![Python Version](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=for-the-badge&logo=linux)
 ![GitHub](https://img.shields.io/github/license/rlyonheart/tweely?style=for-the-badge)
@@ -151,21 +151,10 @@ Alternatively you can give Tweely execution rights with **chmod +x tweely**
 * Added *'Stream tweets'* option
 
 
-# Developer contact(s) 
-> [Twitter](https://twitter.com/rly0nheart/)
-
-> [Facebook](https://fb.me/rly0nheart/)
-
-> [Instagram](https://instagram.com/rlyonheart/)
-
-> [Telegram](https://t.me/rlyonheart/)
 
 
-# Disclaimer
-**Tweely should not be used for illegal activities.
-This bot was developed as a learning project. 
-Therefore, the author of Tweely [Richard Mwewa], shall not be responsible for any
-sort of damage that might be caused with Tweely**.
+
+
 
 
 
