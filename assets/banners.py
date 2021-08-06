@@ -1,7 +1,7 @@
 import datetime
 
 # importing all colors from colors.py
-from assets.colors import *
+from assets.colors import red,white,brightred,yellow,end
 
 
 now = datetime.datetime.now()
