@@ -4,6 +4,8 @@
 ![GitHub](https://img.shields.io/github/license/rlyonheart/tweely?style=for-the-badge)
 ![Twitter](https://img.shields.io/twitter/follow/rly0nheart?&style=for-the-badge&logo=twitter)
 
+![Twitter URL](https://img.shields.io/twitter/url?color=grey&label=Twitter%20Developer%20Account&logo=twitter&style=for-the-badge&url=https%3A%2F%2Fdeveloper.twitter.com%2F)
+
 *Tweely is a multi-function twitter bot written in python3*. 
 ![tweely](https://user-images.githubusercontent.com/74001397/122753237-3ddec580-d292-11eb-80cb-f4cbae0bd1eb.jpg)
 
