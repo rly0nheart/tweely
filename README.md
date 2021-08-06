@@ -1,4 +1,9 @@
 # Tweely
+![Python Version](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)
+![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=for-the-badge&logo=linux)
+![GitHub](https://img.shields.io/github/license/rlyonheart/tweely?style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/rly0nheart?&style=for-the-badge&logo=twitter)
+
 *Tweely is a multi-function twitter bot written in python3*. 
 ![tweely](https://user-images.githubusercontent.com/74001397/122753237-3ddec580-d292-11eb-80cb-f4cbae0bd1eb.jpg)
 
