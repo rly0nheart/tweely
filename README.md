@@ -1,14 +1,14 @@
 # Tweely
-![Python Version](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)
-![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=for-the-badge&logo=linux)
-![GitHub](https://img.shields.io/github/license/rlyonheart/tweely?style=for-the-badge)
-![Twitter](https://img.shields.io/twitter/follow/rly0nheart?&style=for-the-badge&logo=twitter)
-[![CodeFactor](https://www.codefactor.io/repository/github/rlyonheart/tweely/badge)](https://www.codefactor.io/repository/github/rlyonheart/tweely)
+![Python Version](https://img.shields.io/badge/python-3.x-blue?style=flat&logo=python)
+![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=flat&logo=linux)
+![GitHub](https://img.shields.io/github/license/rlyonheart/tweely?style=flat)
+![Twitter](https://img.shields.io/twitter/follow/rly0nheart?&style=flat&logo=twitter)
+![CodeFactor](https://www.codefactor.io/repository/github/rlyonheart/tweely/badge)
 
-![Twitter URL](https://img.shields.io/twitter/url?color=grey&label=Twitter%20Developer%20Account&logo=twitter&style=for-the-badge&url=https%3A%2F%2Fdeveloper.twitter.com%2F)
+![Twitter URL](https://img.shields.io/twitter/url?color=grey&label=Twitter%20Developer%20Account&logo=twitter&style=flat&url=https%3A%2F%2Fdeveloper.twitter.com%2F)
 
 *Tweely is a multi-function twitter bot written in python3*. 
-![tweely](https://user-images.githubusercontent.com/74001397/122753237-3ddec580-d292-11eb-80cb-f4cbae0bd1eb.jpg)
+
 
 # Features
 **PROFILE👤**
