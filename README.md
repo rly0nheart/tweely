@@ -3,6 +3,7 @@
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=flat&logo=linux)
 ![GitHub](https://img.shields.io/github/license/rlyonheart/tweely?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rlyonheart/tweely)
+![Lines of code](https://img.shields.io/tokei/lines/github/rlyonheart/tweely)
 ![Twitter](https://img.shields.io/twitter/follow/rly0nheart?&style=flat&logo=twitter)
 ![CodeFactor](https://www.codefactor.io/repository/github/rlyonheart/tweely/badge)
 
